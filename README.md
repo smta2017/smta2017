@@ -1,6 +1,6 @@
 # ![Hi, I'm Sameh](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Sameh!👋🏼;+;+)
 
-[View my Resume 📝]([https://drive.google.com/file/d/1J5Mgp50mA_JWqhFdLWk1QN48To35ayDi/view?usp=drive_link](https://drive.google.com/file/d/1J5Mgp50mA_JWqhFdLWk1QN48To35ayDi/view?usp=sharing))
+[View my Resume 📝](https://drive.google.com/file/d/1J5Mgp50mA_JWqhFdLWk1QN48To35ayDi/view?usp=sharing)
 
 ## Preave
 Hi there , I'm Sameh, a Full-Stack developer mainly with PHP-Laravel & Vue.js.
