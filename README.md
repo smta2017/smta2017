@@ -1,11 +1,13 @@
 # ![Hi, I'm Sameh](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Sameh!👋🏼;+;+)
 
-[View my Resume 📝](https://drive.google.com/file/d/1iTVgy2i8spukaeNOaP9TaI6Ne85vKB5E/view?usp=drivesdk)
+[View my Resume 📝](https://drive.google.com/file/d/1J5Mgp50mA_JWqhFdLWk1QN48To35ayDi/view?usp=drive_link)
 
+## Preave
+Hi there 🙆‍♀️, I'm Aachal, a frontend developer with a passion for design and content creation.
 
 ### 🧰 Here is what I'm working on!  
 
-- 🔭 I’m currently working on Web Development and Machine learning.
+- 🔭 I’m currently working on EVOLVICE.
 - 🤔 What is my highest qualification? - Integrated Master of Technology in [Bioengineering](https://mitbio.edu.in/) with concentration in computer programming! 
 - 📚 Books I am currently reading: [SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering) , [DSA - Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
 - ⚡ Fun fact: I'm a polyglot, including Spanish, Arabic...Check my Duolingo [stats](https://www.duolingo.com/profile/AdilKhwaja?via=share_profile)!
@@ -16,7 +18,7 @@
 
 ### 👨‍💻 Languages and Tools I Use
 
-![Python](https://img.shields.io/badge/Python-05122A?style=plastic&logo=Python&logoColor=3776AB)
+![Laravel](https://img.shields.io/badge/Python-05122A?style=plastic&logo=Python&logoColor=3776AB)
 ![Git](https://img.shields.io/badge/Git-05122A?style=plastic&logo=Git&logoColor=F05032)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=plastic&logo=JavaScript&logoColor=F7DF1E)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-05122A?&style=plastic&logo=database&logoColor=025E8C)
