@@ -3,7 +3,7 @@
 [View my Resume 📝](https://drive.google.com/file/d/1J5Mgp50mA_JWqhFdLWk1QN48To35ayDi/view?usp=drive_link)
 
 ## Preave
-Hi there 🙆‍♀️, I'm Aachal, a frontend developer with a passion for design and content creation.
+Hi there , I'm Sameh, a Full-Stack developer mainly with PHP-Laravel & Vue.js.
 
 ### 🧰 Here is what I'm working on!  
 
